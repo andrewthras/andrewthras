@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @andrewthras
 - 💻 I'm a computer science student at UCY
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning java and python
 - 😄 Pronouns: he/him
 
 <!---
